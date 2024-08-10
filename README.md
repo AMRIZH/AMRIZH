@@ -2,8 +2,7 @@
 ## S1 Informatika Kelas Internasional
 ## Universitas Muhammadiyah Surakarta
 
-- Nama	: Amri Zadi Hudaya
+- Name	: Amri Zadi Hudaya
 - NIM	: L200224288
-- Kelas : X
+- Class : X
 
-- contact me : amrizadi@gmail.com
